@@ -12,7 +12,9 @@ Correspondingly, the structure of UAV target tracking is shown in the following 
 
 We can easily start training the SUPERTrack model by:
 
-```python train.py```
+```python
+python train.py
+```
 
 Then run the following code to train the tracker:
 
