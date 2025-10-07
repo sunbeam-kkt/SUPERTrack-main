@@ -18,13 +18,19 @@ python train.py
 
 Then run the following code to train the tracker:
 
-```python csptracker.py```
+```python
+python csptracker.py
+```
 
 Calculate the MOTA value using the detection code officially released by CVPR. First, enter folder __MultiUAV_Baseline_code_and_submissi__, then run:
 
-```python tool/2_compute_MOTA.py```
+```python
+python tool/2_compute_MOTA.py
+```
 
 And you also can test the trained model by run:
 
-```python test.py```
+```python
+python test.py
+```
 
