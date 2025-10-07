@@ -28,25 +28,3 @@ results = model.train(
     amp=True,
     project='exp',        # Output directory (default runs/detect)
 )
-
-
-# # Training configuration (complete parameter mapping)  yolov13-based
-# results = model.train(
-#     # Required parameters
-#     data='./data/MOT-UAV.yaml',  # Dataset configuration file path 
-#     # For the Ultralytics framework, ​absolute paths must be used​ (for path )to avoid path resolution errors.
-#     epochs=50,  # Training duration
-#     batch=16,  # Batch size
-#     imgsz=640,  # Input image size
-#     scale=0.5,
-#     mosaic=0.5,
-#     mixup=0.0,
-#     copy_paste=0.0,
-#     device='4',  # GPU device
-#     lr0=0.001,
-#     optimizer='SGD',
-#     amp=False,
-#     project='exp'
-# )
-
-# metrics = model.val('./data/MOT-UAV.yaml') 
