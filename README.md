@@ -36,3 +36,7 @@ And you also can test the trained model by run:
 python test.py
 ```
 
+The visualization of SUPERTrack on AntiUAV410 datatset is shown in the following figure:
+
+![visualization](https://github.com/sunbeam-kkt/SUPERTrack-main/blob/main/AntiUAV410.jpg)
+
