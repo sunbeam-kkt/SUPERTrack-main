@@ -4,11 +4,11 @@
 
 The structure of the UAV detection part is shown as subfigure:
 
-![IPS-SOD](https://github.com/sunbeam-kkt/SUPERTrack-main/blob/main/docs/SBD-based%20on%20YOLOv13.pdf)
+![IPS-SOD](https://github.com/sunbeam-kkt/SUPERTrack-main/blob/main/docs/SBD-based%20on%20YOLOv13.jpg)
 
 Correspondingly, the structure of UAV target tracking is shown in the following figure:
 
-![CSPTracker](https://github.com/sunbeam-kkt/SUPERTrack-main/blob/main/docs/CSPTracker.pdf)
+![CSPTracker](https://github.com/sunbeam-kkt/SUPERTrack-main/blob/main/docs/CSPTracker.jpg)
 
 We can easily start training the SUPERTrack model by:
 
